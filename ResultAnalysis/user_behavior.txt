@@ -1,0 +1,15 @@
+|                Time|                                                                                           Behaviour|
+| 2019-06-10 11:44:21|                                                  "GET /Badminton/upcomingevent/ HTTP/1.1" 200 9833
+| 2019-06-10 11:44:25|                                                               "GET /Badminton/ HTTP/1.1" 200 12079
+| 2019-06-10 11:44:28|                                                  "GET /Badminton/upcomingevent/ HTTP/1.1" 200 9833
+| 2019-06-10 11:44:51|                                                               "GET /Badminton/ HTTP/1.1" 200 12079
+| 2019-06-10 11:45:00|                                                   "POST /Badminton/accounts/login/ HTTP/1.1" 302 0
+| 2019-06-10 11:45:00|                                                                             "GET / HTTP/1.1" 302 0
+| 2019-06-10 11:45:00|                                                               "GET /Badminton/ HTTP/1.1" 200 11659
+| 2019-06-10 11:45:16|                                                  "GET /Badminton/upcomingevent/ HTTP/1.1" 200 9413
+| 2019-06-10 11:45:18|                                                               "GET /Badminton/ HTTP/1.1" 200 11659
+| 2019-06-10 11:45:22|                                  "GET /Badminton/accounts/logout/?next=/Badminton/ HTTP/1.1" 302 0
+| 2019-06-10 11:45:22|                                                               "GET /Badminton/ HTTP/1.1" 200 12079
+| 2019-06-10 11:45:29|                                               "POST /Badminton/accounts/login/ HTTP/1.1" 200 10496
+| 2019-06-10 11:45:36|                                               "POST /Badminton/accounts/login/ HTTP/1.1" 200 10496
+| 2019-06-10 11:45:39|                                               "POST /Badminton/accounts/login/ HTTP/1.1" 200 10496
